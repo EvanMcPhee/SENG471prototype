@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+  background-color: black;
+}
+body {
+
+  background-color: black;
+}
+.topbar {
+  width: 100%;
+  background-color: grey;
+  font-size: 24;
+  color: red;
+}
